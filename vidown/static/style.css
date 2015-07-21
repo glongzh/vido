@@ -1,0 +1,12 @@
+#url {
+    height: 50px;
+}
+
+.message ul {
+    list-style: none;
+}
+
+#url:focus {
+    border-bottom: 1px solid #29b6f6;
+    box-shadow: 0 1px 0 0 #29b6f6;
+}

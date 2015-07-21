@@ -1,0 +1,22 @@
+{
+  "name": "vido",
+  "version": "0.0.0",
+  "authors": [
+    "glongzh <glong.web@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.97.0"
+  }
+}
